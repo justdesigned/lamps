@@ -73,7 +73,7 @@ const productField = document.querySelectorAll('.product-descr__field'),
         descr: ['H 33 x W 15 x D 15', 'H 31 x W 17 x D 19', 'H 33 x W 11 x D 20'],
         material: ['Copper', 'Metal', 'Plastic'],
         weight: ['2.5kg', '2.7kg', '3kg'],
-        electr: ['LED 10W | G9 | 220-240V | 50 Hz', 'LED 10W | G9 | 220-240V | 50 Hz', 'LED 10W | G9 | 220-240V | 50 Hz']
+        electr: ['LED 10W | G9 | 220-240V | 50 Hz', 'LED 10W | G9 | 220-240V | 50 Hz']
     };
 
 
